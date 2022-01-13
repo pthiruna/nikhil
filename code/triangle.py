@@ -1,4 +1,4 @@
-# this is my first comment 
+# this is the right comment
 print('------------- START ----------------')
 xstr =input("enter a number ")
 xnum= int(xstr)
