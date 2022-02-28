@@ -1,4 +1,1 @@
-print('wertyuiikjnhbgvfcdcfghjkl;/?;.lkjhbgvfcdxszasdrtyuikl;lkjhgvcxfghuytrtyuiop;'
-';lkjhbvghjukl.,mnbvcdrtfghjk.jhvcxzasdfty7yhgbgyuiopolkjkop;lkmnjkioijhbhjujhbhujhn k,mnbvcxzazsdefrgthyjjnbvcvghjkl.,mnbvbhnjkmjnbvc')
-ueu="aditi farts a lot"
-print(ueu)
+print("i76905io7ri6¶856.r8nlb kbh\pghkpgfohkcopkhhplkrii=05e i6=i6tirjvht ntr89r=")

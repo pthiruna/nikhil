@@ -4,7 +4,7 @@
 # ex user enters 4. you need to return 4 + 3 + 2 + 1 + 0, which is 10
 
 print('------------- START ----------------')
-xstr =input("enter a number ")
+xstr =input("enter a  ")
 xnum= int(xstr)
 sum=xnum
 x=xnum
